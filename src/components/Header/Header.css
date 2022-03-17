@@ -1,0 +1,7 @@
+nav a{
+    text-decoration: none;
+    margin: 0 20px;
+    display: inline-block;
+    color: royalblue;
+    font-weight: 600;
+}
